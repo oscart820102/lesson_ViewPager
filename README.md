@@ -10,3 +10,7 @@ Notes and Examples about ViewPager, open Note_ç­†è? for more
     * 1. ViewPager  2. Fragment  3. FragmentPagerAdapter
     * From my perspective, it looks like this :
 ![](https://github.com/oscart820102/lesson_ViewPager/blob/master/BigPicture.png)
+*Read Notes.pdf for more notes
+
+##Reference :
+* https://github.com/codepath/android_guides/wiki/ViewPager-with-FragmentPagerAdapter

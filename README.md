@@ -9,4 +9,4 @@ Notes and Examples about ViewPager, open Note_ç­†è? for more
 * Threes things when using ViewPager
     * 1. ViewPager  2. Fragment  3. FragmentPagerAdapter
 	From my perspective, it looks like this :
-![](https://github.com/oscart820102/lesson_ViewPager/master/BigPicture.png)
+![](https://github.com/oscart820102/lesson_ViewPager/blob/master/BigPicture.png)

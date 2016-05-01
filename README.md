@@ -1,5 +1,5 @@
 # lesson_ViewPager
-Notes and Examples about ViewPager, open Note_筆記 for more
+Notes and Examples about ViewPager, open Note_筆�? for more
 
 ##Notes
 
@@ -9,4 +9,4 @@ Notes and Examples about ViewPager, open Note_筆記 for more
 * Threes things when using ViewPager
     * 1. ViewPager  2. Fragment  3. FragmentPagerAdapter
 	From my perspective, it looks like this :
-![](https://github.com/oscart820102/lesson_ViewPager/BigPicture.png)
+![](https://github.com/oscart820102/lesson_ViewPager/master/BigPicture.png)
